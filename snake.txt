@@ -1,0 +1,1 @@
+To Run the snake game just run Snake.java in the snake folder
